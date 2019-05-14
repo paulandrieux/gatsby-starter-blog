@@ -7,7 +7,6 @@ sections:
 - type: document
   path: document
   label: document
-  match: "**/*"
 - type: heading
   label: Test
 upload_dir: uploads
