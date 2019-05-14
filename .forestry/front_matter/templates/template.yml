@@ -1,0 +1,9 @@
+---
+label: template
+hide_body: false
+fields:
+- type: text
+- type: text
+  name: text
+  label: text
+  description: this is a text
