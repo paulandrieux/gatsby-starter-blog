@@ -18,3 +18,5 @@ fields:
     schema:
       format: markdown
   label: textarea
+pages:
+- directory/doc1.md
